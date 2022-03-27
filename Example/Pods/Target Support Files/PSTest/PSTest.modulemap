@@ -1,0 +1,6 @@
+framework module PSTest {
+  umbrella header "PSTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
